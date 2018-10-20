@@ -1,4 +1,4 @@
-source /home/mbonner/bin/antigen.zsh
+source ~/bin/antigen.zsh
 antigen use oh-my-zsh
 
 antigen bundle git
