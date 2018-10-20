@@ -2,7 +2,7 @@
 
 These use:
 * neovim
-** vim-plug
+  * vim-plug
 * zsh
-** antigen
+  * antigen
 * tmux
