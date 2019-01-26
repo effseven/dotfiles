@@ -6,3 +6,4 @@ These use:
 * zsh
   * antigen
 * tmux
+  * tpm: https://github.com/tmux-plugins/tpm
